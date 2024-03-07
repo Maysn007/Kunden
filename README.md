@@ -2,4 +2,4 @@
 
 ## UML
 
-![UML](uml/Kunden.png)
+![UML](Kunden.png)
